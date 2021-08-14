@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map Artekit_WaveTooEasy
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Artekit_WaveTooEasy			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin						KEYWORD2
+hello						KEYWORD2
+getVersion					KEYWORD2
+playFile					KEYWORD2
+playChannel					KEYWORD2
+stopChannel					KEYWORD2
+stopAll						KEYWORD2
+pauseChannel				KEYWORD2
+pauseAll					KEYWORD2
+resumeChannel				KEYWORD2
+resumeAll					KEYWORD2
+getAllChannelsStatus		KEYWORD2
+getChannelStatus			KEYWORD2
+getChannelVolume			KEYWORD2
+setChannelVolume			KEYWORD2
+setSpeakersVolume			KEYWORD2
+setHeadphoneVolume			KEYWORD2
+getSpeakersVolume			KEYWORD2
+getHeadphoneVolume			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
