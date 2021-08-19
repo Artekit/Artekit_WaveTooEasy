@@ -12,6 +12,13 @@ Download the zip file from this page (green button at upper-right corner) and co
 
 Refer to the [WaveTooEasy manual](https://www.artekit.eu/doc/guides/wavetooeasy/) for instructions on how to connect the WaveTooEasy to an Arduino using the Serial port.
 
+## Links
+
+* [WaveTooEasy product page](https://www.artekit.eu/products/devboards/wavetooeasy/)
+* [WaveTooEasy manual](https://www.artekit.eu/doc/guides/wavetooeasy/)
+* [WaveTooEasy - Library for Arduino](https://github.com/Artekit/Artekit_WaveTooEasy)
+* [WaveTooEasy - Generic C library](https://github.com/Artekit/wavetooeasy-c-lib)
+
 ## Usage
 
 1) Add the `WaveTooEasy.h` file to you sketch, like this:
@@ -480,3 +487,13 @@ All the function returns `ERROR_NONE` on success. Otherwise it returns an error 
 * `ERROR_PARAM`: there is an error with some or all of the parameters supplied.
 
 * `ERROR_RX_TIMEOUT`: *WaveTooEasy* is not responding to commands.
+
+## Bugs report
+
+You can report bugs here by creating a new issue or in the [Artekit forum](https://forum.artekit.eu/).
+
+## License
+
+Released under MIT license.
+
+Copyright (c) 2021 Artekit Labs.
